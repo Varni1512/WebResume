@@ -14,13 +14,7 @@ A modern, responsive digital resume built with React.js and styled with Tailwind
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-resume-website.com) <!-- Replace with your actual URL -->
-
-## 📸 Screenshots
-
-![Resume Header](screenshots/header.png)
-![Skills Section](screenshots/skills.png)
-![Contact Section](screenshots/contact.png)
+[View Live Demo](https://varnikumar-resume.vercel.app/) <!-- Replace with your actual URL -->
 
 ## 🛠️ Built With
 
@@ -40,7 +34,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/interactive-resume.git
+   git clone https://github.com/Varni1512/WebResume.git
    cd interactive-resume
    ```
 
@@ -64,7 +58,7 @@ Before running this project, make sure you have the following installed:
 ```
 interactive-resume/
 ├── public/
-│   ├── index.html
+│   ├── image.png
 │   └── resume.pdf
 ├── src/
 │   ├── components/
@@ -75,8 +69,9 @@ interactive-resume/
 │   │   ├── ProfessionalLinks.jsx
 │   │   ├── Documents.jsx
 │   │   └── Footer.jsx
-│   ├── App.jsx
-│   └── main.jsx
+│   ├── index.html
+    ├── App.jsx
+│   └── main.jsx    
 ├── package.json
 └── README.md
 ```
@@ -177,12 +172,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [varnikumarp@gmail.com](mailto:varnikumarp@gmail.com)
 
-Project Link: [https://github.com/yourusername/interactive-resume](https://github.com/yourusername/interactive-resume)
+Project Link: [https://github.com/Varni1512/WebResume](https://github.com/Varni1512/WebResume)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Varnikumar Patel]
