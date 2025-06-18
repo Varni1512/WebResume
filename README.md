@@ -76,79 +76,6 @@ interactive-resume/
 └── README.md
 ```
 
-## 🎨 Customization
-
-### Personal Information
-Update your personal details in the respective components:
-
-- **Header.jsx** - Name, title, graduation info
-- **Education.jsx** - University, degree, CGPA
-- **ContactInformation.jsx** - Email, phone, address
-- **ProfessionalLinks.jsx** - GitHub, LinkedIn, LeetCode profiles
-
-### Skills & Technologies
-Modify the `technicalSkills` object in `TechnicalSkills.jsx`:
-
-```javascript
-const technicalSkills = {
-  "Programming Languages": ["Java", "Python", "C++", "JavaScript"],
-  "Web Technologies": ["React", "Node.js", "HTML5", "CSS3"],
-  // Add your skills here
-};
-```
-
-### Styling
-- Colors and gradients can be customized using Tailwind CSS classes
-- Animations and transitions are easily adjustable
-- Component-specific styling is contained within each file
-
-## 📦 Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-## 🌟 Key Sections
-
-### 🎯 Header
-- Professional profile photo placeholder
-- Name and title with AI/ML specialization
-- Graduation timeline and CGPA
-
-### 🎓 Education
-- Degree information with university details
-- Academic achievements and honors
-- Timeline and location
-
-### 💻 Technical Skills
-- Categorized skill sets with icons
-- Interactive hover effects
-- Professional technology stack
-
-### 📞 Contact Information
-- Email, phone, and address
-- Interactive contact cards
-- Hover animations
-
-### 🔗 Professional Links
-- GitHub repositories
-- LinkedIn profile
-- LeetCode and coding platforms
-- GeeksforGeeks profile
-
-### 📄 Documents
-- Resume PDF download
-- Portfolio website link
-- Call-to-action buttons
-
-## 🎯 Performance Features
-
-- **Fast Loading** - Optimized with Vite
-- **Smooth Animations** - CSS transitions and transforms
-- **Mobile Optimized** - Responsive design patterns
-- **SEO Friendly** - Proper HTML structure and meta tags
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -163,12 +90,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Tailwind CSS** for the amazing utility classes
-- **Lucide React** for the beautiful icons
-- **React.js** community for excellent documentation
-- **Vite** for the fast development experience
 
 ## 📧 Contact
 
